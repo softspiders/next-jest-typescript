@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # next-jest-typescript
 
 Next with Jest in TypeScript - TBD
@@ -8,11 +10,14 @@ Next with Jest in TypeScript - TBD
 
 [Minimalist NextJS project in TypeScript](https://github.com/softspider/next-typescript)
 
+---
+
 ## Requirements
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*TypeScript*](https://www.typescriptlang.org/)
 
+---
 
 ## Installation
 
@@ -20,15 +25,21 @@ Next with Jest in TypeScript - TBD
 yarn
 ```
 
+---
+
 ## Running tests
 
 ```sh
 yarn test
 ```
 
+---
+
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
 
 ### License
 
