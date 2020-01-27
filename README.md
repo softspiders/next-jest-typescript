@@ -8,7 +8,7 @@ Next with Jest in TypeScript - TBD
 
 ## Direct ancestors
 
-[Minimalist NextJS project in TypeScript](https://github.com/softspider/next-typescript)
+[Minimalist NextJS project in TypeScript](https://github.com/softspiders/next-typescript)
 
 ---
 
